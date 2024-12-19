@@ -3,8 +3,8 @@ Dynamic Region and Edge Aware Network via Knowledge Distillation for Rail Surfac
 ## The model structure is as follows：
 ![image](https://github.com/ttdw233/DRENet_KD/blob/main/KD.jpg?raw=true)
 ## Requirements
-Python >=3.6
-Pytorch >= 1.7.1
+Python >=3.6  
+Pytorch >= 1.7.1  
 Cuda = 10.2
 ## Training Weights
 All the training weights of our model will be saved in the:
